@@ -7,9 +7,8 @@ This project contains a notebook for fine-tuning a YOLOv26-based mask detection 
 Repository structure
 - [mask-detection-on-fine-tuning-yolov26.ipynb](mask-detection-on-fine-tuning-yolov26.ipynb) — main notebook for fine-tuning and inference.
 - [runs/detect/train/args.yaml](runs/detect/train/args.yaml) — latest training arguments and configuration.
-- [runs/detect/train/results.csv](runs/detect/train/results.csv) — summary of training/validation metrics.s.
+- [runs/detect/train/results.png](runs/detect/train/results.png) — summary of training/validation metrics.s.
 
-Requirements (example)
 
 It is recommended to create a virtual environment and install dependencies before running the notebook.
 
